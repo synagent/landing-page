@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+
       <div>
 
         <a href="https://syn-agent.app" target="_blank">
